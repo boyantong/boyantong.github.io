@@ -1,3 +1,7 @@
-title: "My first blog in 2026"
-categories:
-  - Blog
+---
+title: "My first blog"
+date: 2026-01-05
+layout: single
+---
+
+
