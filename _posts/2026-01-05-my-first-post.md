@@ -4,4 +4,6 @@ date: 2026-01-05
 layout: single
 ---
 
-
+thoughts
+growths
+interests
