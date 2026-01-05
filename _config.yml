@@ -19,8 +19,8 @@ description: Individual researches about media studies >- # this means to ignore
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
-twitter_username: username
-github_username: username
+twitter_username: Boyan
+github_username: boyantong
 minimal_mistakes_skin: default
 search: true
 
@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Boyan Tong"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Open to discussion"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
