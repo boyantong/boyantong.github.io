@@ -4,11 +4,16 @@
 
 @charset "utf-8";
 
+/* wider layout: more room for the main column */
+$max-width: 1680px;
+$right-sidebar-width-narrow: 190px;
+$right-sidebar-width: 250px;
+
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
 @import "minimal-mistakes";
 
 /* ---------- Palette ---------- */
-$bt-accent: #b5532f;      /* warm rust: coal, earth, fieldwork */
+$bt-accent: #4090c5;      /* site blue, matches theme buttons and icon */
 $bt-ink: #1f2933;
 
 /* ---------- Sticky, horizontal navigation ---------- */
@@ -89,7 +94,7 @@ $bt-ink: #1f2933;
   &:hover {
     background-color: darken($bt-accent, 8%);
     transform: translateY(-1px);
-    box-shadow: 0 4px 10px rgba(181, 83, 47, 0.25);
+    box-shadow: 0 4px 10px rgba(64, 144, 197, 0.3);
   }
 }
 
@@ -132,10 +137,10 @@ $bt-ink: #1f2933;
 .project {
   margin: 2em 0 2.5em;
   padding: 1.25em 1.5em 0.5em;
-  border: 1px solid #ececec;
-  border-left: 4px solid $bt-accent;
-  border-radius: 8px;
-  background: #fcfbfa;
+  border: 1px solid #e6e9ec;
+  border-radius: 10px;
+  background: #fff;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.04);
 }
 
 .project__meta {
@@ -153,8 +158,8 @@ $bt-ink: #1f2933;
     font-size: 0.7em;
     padding: 0.2em 0.65em;
     border-radius: 999px;
-    background: rgba(181, 83, 47, 0.1);
-    color: $bt-accent;
+    background: rgba(64, 144, 197, 0.12);
+    color: darken($bt-accent, 8%);
   }
 }
 
@@ -206,7 +211,7 @@ $bt-ink: #1f2933;
   gap: 0.4em 1em;
   padding: 0.6em 1em;
   font-size: 0.72em;
-  background: #f6f4f2;
+  background: #f3f6f9;
   border-bottom: 1px solid #e2e2e2;
 }
 
@@ -231,7 +236,7 @@ $bt-ink: #1f2933;
   max-height: 600px;
   overflow-y: auto;
   padding: 1.2em;
-  background: #e9e7e4;
+  background: #e8ecf0;
   scroll-behavior: smooth;
 }
 
@@ -304,3 +309,13 @@ $bt-ink: #1f2933;
     p:last-child { margin-top: auto; }
   }
 }
+
+/* ---------- Typography scale: theme default grows to 22px on wide screens ---------- */
+html {
+  @include breakpoint($medium) { font-size: 17px; }
+  @include breakpoint($large) { font-size: 17px; }
+  @include breakpoint($x-large) { font-size: 18px; }
+}
+
+/* table of contents header in the same blue */
+.toc .nav__title { background: $bt-accent; }
