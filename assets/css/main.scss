@@ -333,7 +333,20 @@ html {
   margin-top: 0.6em;
 }
 
-.page__content figure { display: block; }   /* theme default puts captions beside images */
+.page__content figure:not(.half):not(.third) { display: block; }   /* theme default puts captions beside images */
+
+/* galleries: keep photos side by side, smaller and evenly cropped */
+.page__content figure.third,
+.page__content figure.half {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1em;
+  justify-content: flex-start;
+  > a { flex: 0 0 calc((100% - 3em) / 4); margin: 0; }
+  img { width: 100%; aspect-ratio: 4 / 3; object-fit: cover; border-radius: 8px; }
+  figcaption { flex-basis: 100%; }
+  @media (max-width: 1000px) { > a { flex-basis: calc((100% - 1em) / 2); } }
+}
 
 .gallery a:focus { outline: none; }
 
