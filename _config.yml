@@ -41,7 +41,7 @@ plugins:
 
 author:
   name   : "Boyan Tong"
-  avatar : "/assets/images/3.jpg"
+  avatar : "/assets/images/boyan-tong.jpg"
   bio    : "Explore the charm of social studies."
   links:
     - label: "GitHub"
@@ -74,9 +74,3 @@ defaults:
       layout: single
       author_profile: true
 
-category_archive:
-  type: liquid
-  path: /categories/
-tag_archive:
-  type: liquid
-  path: /tags/

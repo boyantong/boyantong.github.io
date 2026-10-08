@@ -49,3 +49,14 @@ I used Python to collect 351 user reviews of eight chronic-disease self-manageme
 [Read the full paper (PDF)]({{ "/assets/files/chronic-disease-apps-boyan-tong.pdf" | relative_url }}){: .btn .btn--primary}
 
 </div>
+
+<div class="project" markdown="1">
+
+## Academic programmes
+
+<div class="tag-row"><span>Pioneer Academics</span><span>Harvard SSP</span></div>
+
+- **Pioneer Academics** — STS research on chronic-disease self-management apps, completed as the full research paper above.
+- **Harvard Secondary School Program** — *Self, Society & Politics*, where I wrote a final paper on the inclusiveness of civic nationalism; and *Disease, Illness & Health Through Literature*, where I studied illness narratives, chronic-disease stigma and patient autonomy and wrote a 2,400-word creative dialogue.
+
+</div>
