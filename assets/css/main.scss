@@ -342,17 +342,12 @@ html {
   flex-wrap: wrap;
   gap: 1em;
   justify-content: flex-start;
-  > a { flex: 0 0 calc((100% - 3em) / 4); margin: 0; }
+  > a { flex: 0 0 calc((100% - 2em) / 3); margin: 0; }
   img { width: 100%; aspect-ratio: 4 / 3; object-fit: cover; border-radius: 8px; }
   figcaption { flex-basis: 100%; }
   @media (max-width: 1000px) { > a { flex-basis: calc((100% - 1em) / 2); } }
 }
 
-/* larger sets (e.g. six fieldwork photos) fit on one row */
-.page__content figure.third:has(> a:nth-of-type(5)) {
-  > a { flex-basis: calc((100% - 5em) / 6); }
-  @media (max-width: 1000px) { > a { flex-basis: calc((100% - 2em) / 3); } }
-}
 
 .gallery a:focus { outline: none; }
 
