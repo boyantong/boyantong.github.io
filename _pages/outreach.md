@@ -22,14 +22,14 @@ I coordinated a 45-minute online lecture on pneumoconiosis prevention, given by 
 
 <div class="project" markdown="1">
 
-## China Lifeline Express Foundation（健康快车）
+## China Lifeline Express Foundation
 
 <p class="project__meta">Health communications intern · Inner Mongolia & Beijing</p>
 <div class="tag-row"><span>Eye-care charity</span><span>Field report</span></div>
 
 The China Lifeline Express is a charity that runs train hospitals offering free cataract surgery. In Inner Mongolia I observed cataract care on the train, and I wrote a field report that was published on the foundation’s WeChat account. The experience extended my interest in healthcare access by showing how mobile services bring treatment closer to patients’ communities.
 
-[Read the article on WeChat](https://mp.weixin.qq.com/s/d2zFCPuwTV2vQi2Q1m4kBA){: .btn .btn--primary}
+[Read the article on WeChat (Chinese)](https://mp.weixin.qq.com/s/d2zFCPuwTV2vQi2Q1m4kBA){: .btn .btn--primary}
 
 <figure>
   <div class="scroll-shot">

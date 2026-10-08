@@ -38,7 +38,7 @@ fieldwork_gallery:
 
 ## Pneumoconiosis field research in Pingxiang
 
-<p class="project__meta">Field researcher & writer · organised with Yuanxingke (远行客)</p>
+<p class="project__meta">Field researcher & writer · organised with Yuanxingke</p>
 <div class="tag-row"><span>Interviews</span><span>Oral history</span><span>Reporting</span></div>
 
 Pingxiang, once known as the “coal capital” south of the Yangtze, is home to many former miners living with pneumoconiosis. I interviewed patients and their families, a respiratory physician, the head of a local public-welfare organisation and a county official. Their accounts led me to investigate how employment histories, access to diagnosis and compensation shape life after occupational illness, and how illness changes caregiving, household income and children’s education.
@@ -51,18 +51,18 @@ After the trip I organised the interview materials into a 4,000-word in-depth re
 
 <div class="project" markdown="1">
 
-## 萍乡尘肺病记忆——会长 医生 书记 病人
+## Memories of Pneumoconiosis in Pingxiang: An NGO Leader, a Doctor, a Village Party Secretary and Patients
 
-<p class="project__meta">孟广轩、童博岩 · China Development Brief（中国发展简报）· 18 March 2026</p>
+<p class="project__meta">Guangxuan Meng & Boyan Tong · <em>China Development Brief</em> · 18 March 2026 · Article in Chinese</p>
 <div class="tag-row"><span>Published</span><span>In-depth report</span></div>
 
 Our co-authored report brings together memories of mining work and accounts of life with pneumoconiosis. It examines the difficulty of obtaining compensation when employment records are missing, the role of rehabilitation centres, and the burden of long-term care within families.
 
-[Read the report in China Development Brief](https://www.chinadevelopmentbrief.org.cn/news/detail/66733.html){: .btn .btn--primary}
+[Read the report in China Development Brief (Chinese)](https://www.chinadevelopmentbrief.org.cn/news/detail/66733.html){: .btn .btn--primary}
 
 <figure>
   <div class="scroll-shot">
-    <img src="{{ "/assets/images/portfolio/cdb-article-screenshot.jpg" | relative_url }}" alt="Full-page screenshot of the article 萍乡尘肺病记忆 as published in China Development Brief" loading="lazy">
+    <img src="{{ "/assets/images/portfolio/cdb-article-screenshot.jpg" | relative_url }}" alt="Full-page screenshot of our article on pneumoconiosis in Pingxiang as published in China Development Brief" loading="lazy">
   </div>
   <figcaption>Screenshot of the published article (scroll inside the frame). <a href="{{ "/assets/images/portfolio/cdb-article-screenshot.jpg" | relative_url }}">Open full size</a>.</figcaption>
 </figure>
