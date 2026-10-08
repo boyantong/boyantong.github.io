@@ -60,7 +60,7 @@ Our co-authored report brings together memories of mining work and accounts of l
 
 [Read the report in China Development Brief (Chinese)](https://www.chinadevelopmentbrief.org.cn/news/detail/66733.html){: .btn .btn--primary}
 
-{% include doc-preview.html slug="cdb-pingxiang-article" pages=13 pdf="/assets/files/cdb-pingxiang-article.pdf" title="Memories of Pneumoconiosis in Pingxiang (China Development Brief, in Chinese)" %}
+{% include doc-preview.html slug="cdb-pingxiang-article" pages=13 title="Memories of Pneumoconiosis in Pingxiang (China Development Brief, in Chinese)" %}
 
 <figure><img src="{{ "/assets/images/portfolio/pingxiang-interview.jpg" | relative_url }}" alt="Interview with an NGO leader at a table in Pingxiang" loading="lazy"><figcaption>Interview with Xiao Li, head of Xingjian Public Welfare, pictured at left. Photo from our report in China Development Brief.</figcaption></figure>
 

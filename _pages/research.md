@@ -33,7 +33,7 @@ This narrative literature review examines how TikTok and Douyin recommendation s
 
 This study combines international policy comparison, Chinese provincial panel data from 2007 to 2023, and institutional case studies. Regression models explore associations between industrial structure, labour protection, healthcare resources, pollution and reported tuberculosis incidence. The quantitative outcome is tuberculosis reporting, not a direct measure of pneumoconiosis. The paper then compares U.S. and international governance approaches and examines where workers lose access to diagnosis and compensation, proposing policy paths for prevention and governance in China.
 
-{% include doc-preview.html slug="pneumoconiosis-policy" pages=30 pdf="/assets/files/pneumoconiosis-policy-boyan-tong.pdf" title="A Comparison of Pneumoconiosis Policies" %}
+{% include doc-preview.html slug="pneumoconiosis-policy" pages=30 title="A Comparison of Pneumoconiosis Policies" %}
 
 </div>
 
@@ -46,7 +46,7 @@ This study combines international policy comparison, Chinese provincial panel da
 
 I used Python to collect 351 user reviews of eight chronic-disease self-management apps, then screened them to 137 reviews for inductive qualitative coding. The study identifies what users value, such as long-term records and information sharing, alongside usability and accessibility barriers: small text, inflexible recording schedules, paywalls and disruptive updates. It asks how these design choices affect people whose physical abilities change as their symptoms worsen. Because app-store reviewers are a self-selected group, the findings describe reported experiences rather than how common problems are among all patients.
 
-{% include doc-preview.html slug="chronic-disease-apps" pages=46 pdf="/assets/files/chronic-disease-apps-boyan-tong.pdf" title="User Experiences with Chronic-Disease Self-Management Apps" %}
+{% include doc-preview.html slug="chronic-disease-apps" pages=46 title="User Experiences with Chronic-Disease Self-Management Apps" %}
 
 </div>
 
@@ -59,7 +59,7 @@ I used Python to collect 351 user reviews of eight chronic-disease self-manageme
 
 Civic nationalism is often seen as more inclusive than ethnic nationalism because membership rests on shared laws and values rather than descent. This essay argues that civic nationalism is indeed more open at the level of formal membership, but becomes exclusionary when dominant interpretations of universal values are turned into cultural tests of belonging. It develops three criteria—formal openness, the unequal burdens that universal rules can impose, and who is recognised as a credible interpreter of freedom and equality—and applies them to France’s 2004 law on religious symbols in schools, the British *Begum* case and Canada’s *Multani* decision, drawing on Anderson, Asad and Mills.
 
-{% include doc-preview.html slug="civic-nationalism" pages=14 pdf="/assets/files/civic-nationalism-boyan-tong.pdf" title="Citizens by Law, Outsiders by Culture" %}
+{% include doc-preview.html slug="civic-nationalism" pages=14 title="Citizens by Law, Outsiders by Culture" %}
 
 </div>
 
@@ -72,6 +72,6 @@ Civic nationalism is often seen as more inclusive than ethnic nationalism becaus
 
 Written as an imagined dialogue between the writer Meghan O’Rourke and the physician-researcher Allen Steere, this piece asks how medicine should respond when patients’ symptoms persist after standard treatment for Lyme disease. As the two co-edit a joint statement, they negotiate between clinical evidence and lived experience—whether improvement after antibiotics proves ongoing infection, who gets to speak for patients, and how uncertainty can be acknowledged without dismissing suffering.
 
-{% include doc-preview.html slug="lyme-dialogue" pages=8 pdf="/assets/files/lyme-dialogue-boyan-tong.pdf" title="When Treatment Ends but Illness Persists" %}
+{% include doc-preview.html slug="lyme-dialogue" pages=8 title="When Treatment Ends but Illness Persists" %}
 
 </div>

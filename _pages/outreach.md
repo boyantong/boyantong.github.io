@@ -7,6 +7,19 @@ toc: true
 toc_sticky: true
 toc_label: "On this page"
 excerpt: "Health education, health communications and community work."
+lifeline_gallery:
+  - url: /assets/images/portfolio/lifeline/lifeline-train.jpg
+    image_path: /assets/images/portfolio/lifeline/lifeline-train-th.jpg
+    alt: "Boyan Tong with a medical staff member beside the Lifeline Express train"
+    title: "Beside the Hong Kong Guangming train in Hohhot"
+  - url: /assets/images/portfolio/lifeline/lifeline-surgery.jpg
+    image_path: /assets/images/portfolio/lifeline/lifeline-surgery-th.jpg
+    alt: "Surgeons perform cataract surgery in the train's operating carriage"
+    title: "Cataract surgery in the operating carriage"
+  - url: /assets/images/portfolio/lifeline/lifeline-aftercare.jpg
+    image_path: /assets/images/portfolio/lifeline/lifeline-aftercare-th.jpg
+    alt: "A nurse cares for a patient's eye after surgery in a train compartment"
+    title: "Post-operative care on board"
 ---
 
 <div class="project" markdown="1">
@@ -31,7 +44,9 @@ The China Lifeline Express is a charity that runs train hospitals offering free 
 
 [Read the article on WeChat (Chinese)](https://mp.weixin.qq.com/s/d2zFCPuwTV2vQi2Q1m4kBA){: .btn .btn--primary}
 
-{% include doc-preview.html slug="lifeline-express-article" pages=11 pdf="/assets/files/lifeline-express-article.pdf" title="On the Hong Kong Guangming Train: Seeing How Sight Is Restored (in Chinese)" %}
+{% include gallery id="lifeline_gallery" layout="third" caption="On board the Lifeline Express in Hohhot. Click a photo to enlarge it." %}
+
+{% include doc-preview.html slug="lifeline-express-article" pages=11 title="On the Hong Kong Guangming Train: Seeing How Sight Is Restored (in Chinese)" %}
 
 </div>
 

@@ -50,8 +50,6 @@ BREATH·LEDGER is an interactive installation inspired by my pneumoconiosis fiel
 
 This project asks why accessibility infrastructure so often fails on everyday streets, and how those failures affect the independent mobility of blind and visually impaired people. Through public interviews, case studies and spatial research, I found that broken, blocked or poorly maintained tactile paving is part of a wider urban system that treats sight as the default. In response, I translated common obstacles, tactile paving patterns and street furniture into a modular tactile language. Visitors explore the pieces by touch, and the system turns their movement into sound, so that barriers sighted people rarely notice become something to feel and hear.
 
-[View the full project board (PDF)]({{ "/assets/files/invisible-barriers-boyan-tong.pdf" | relative_url }}){: .btn .btn--primary}
-
 <figure>
   <a href="{{ "/assets/images/portfolio/invisible-barriers/page-1.jpg" | relative_url }}"><img src="{{ "/assets/images/portfolio/invisible-barriers/page-1.jpg" | relative_url }}" alt="Invisible Barriers project board: title, introduction and news reports on blocked tactile paving" loading="lazy"></a>
   <figcaption>Introduction and inspiration: mobility barriers for visually impaired people.</figcaption>

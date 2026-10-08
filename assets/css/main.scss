@@ -259,3 +259,48 @@ $bt-ink: #1f2933;
 @media (max-width: 600px) {
   .doc-preview__pages { padding: 0.6em; max-height: 480px; }
 }
+
+/* ---------- Home cards: equal heights, uniform 16:9 images ---------- */
+.feature__wrapper:has(> .feature__item) {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.5em;
+  &::after { display: none; }
+}
+
+.feature__wrapper > .feature__item {
+  float: none;
+  margin: 0 !important;
+  width: 100%;
+  display: flex;
+
+  @include breakpoint($small) {
+    width: calc((100% - 1.5em) / 2);
+  }
+  @include breakpoint($medium) {
+    width: calc((100% - 3em) / 3);
+  }
+
+  .archive__item {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+  }
+
+  .archive__item-teaser {
+    aspect-ratio: 16 / 9;
+    overflow: hidden;
+    img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;   /* also trims the black bars on YouTube thumbnails */
+    }
+  }
+
+  .archive__item-body {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    p:last-child { margin-top: auto; }
+  }
+}
