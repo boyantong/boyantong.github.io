@@ -348,6 +348,12 @@ html {
   @media (max-width: 1000px) { > a { flex-basis: calc((100% - 1em) / 2); } }
 }
 
+/* larger sets (e.g. six fieldwork photos) fit on one row */
+.page__content figure.third:has(> a:nth-of-type(5)) {
+  > a { flex-basis: calc((100% - 5em) / 6); }
+  @media (max-width: 1000px) { > a { flex-basis: calc((100% - 2em) / 3); } }
+}
+
 .gallery a:focus { outline: none; }
 
 /* ---------- Media grid (2 × 2 on wide screens) ---------- */
