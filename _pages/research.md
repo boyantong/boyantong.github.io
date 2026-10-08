@@ -6,7 +6,7 @@ author_profile: true
 toc: true
 toc_sticky: true
 toc_label: "Papers"
-excerpt: "Three research papers on technology, occupational health and patient experience."
+excerpt: "Research on technology, occupational health, patient experience, citizenship and illness."
 ---
 
 My research asks how social systems—platforms, labour markets and health institutions—shape what ordinary people can see, claim and manage in their own lives.
@@ -52,11 +52,26 @@ I used Python to collect 351 user reviews of eight chronic-disease self-manageme
 
 <div class="project" markdown="1">
 
-## Academic programmes
+## Citizens by Law, Outsiders by Culture: Civic Nationalism and the Unequal Burden of Belonging
 
-<div class="tag-row"><span>Pioneer Academics</span><span>Harvard SSP</span></div>
+<p class="project__meta">Boyan Tong · Independent research · Political theory</p>
+<div class="tag-row"><span>Nationalism</span><span>Citizenship</span><span>Case comparison</span></div>
 
-- **Pioneer Academics** — STS research on chronic-disease self-management apps, completed as the full research paper above.
-- **Harvard Secondary School Program** — *Self, Society & Politics*, where I wrote a final paper on the inclusiveness of civic nationalism; and *Disease, Illness & Health Through Literature*, where I studied illness narratives, chronic-disease stigma and patient autonomy and wrote a 2,400-word creative dialogue.
+Civic nationalism is often seen as more inclusive than ethnic nationalism because membership rests on shared laws and values rather than descent. This essay argues that civic nationalism is indeed more open at the level of formal membership, but becomes exclusionary when dominant interpretations of universal values are turned into cultural tests of belonging. It develops three criteria—formal openness, the unequal burdens that universal rules can impose, and who is recognised as a credible interpreter of freedom and equality—and applies them to France’s 2004 law on religious symbols in schools, the British *Begum* case and Canada’s *Multani* decision, drawing on Anderson, Asad and Mills.
+
+[Read the full essay (PDF)]({{ "/assets/files/civic-nationalism-boyan-tong.pdf" | relative_url }}){: .btn .btn--primary}
+
+</div>
+
+<div class="project" markdown="1">
+
+## When Treatment Ends but Illness Persists: How Should Medicine Define and Treat Persistent Symptoms After Lyme Disease?
+
+<p class="project__meta">Boyan Tong · Independent research · Health humanities · Creative dialogue</p>
+<div class="tag-row"><span>Illness narratives</span><span>Doctor–patient relationship</span><span>Medical uncertainty</span></div>
+
+Written as an imagined dialogue between the writer Meghan O’Rourke and the physician-researcher Allen Steere, this piece asks how medicine should respond when patients’ symptoms persist after standard treatment for Lyme disease. As the two co-edit a joint statement, they negotiate between clinical evidence and lived experience—whether improvement after antibiotics proves ongoing infection, who gets to speak for patients, and how uncertainty can be acknowledged without dismissing suffering.
+
+[Read the full dialogue (PDF)]({{ "/assets/files/lyme-dialogue-boyan-tong.pdf" | relative_url }}){: .btn .btn--primary}
 
 </div>
