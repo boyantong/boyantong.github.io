@@ -7,19 +7,6 @@ toc: true
 toc_sticky: true
 toc_label: "Projects"
 excerpt: "Devices, installations and interactive design that make hidden risks and barriers visible."
-detector_gallery:
-  - url: /assets/images/portfolio/detector/detector-prototype.jpg
-    image_path: /assets/images/portfolio/detector/detector-prototype-th.jpg
-    alt: "Working prototype with dust sensor, traffic-light LED module and vibration motor wired to a microcontroller board"
-    title: "Working prototype: dust sensor, LED alert lights and vibration motor"
-  - url: /assets/images/portfolio/detector/detector-smoke-test.jpg
-    image_path: /assets/images/portfolio/detector/detector-smoke-test-th.jpg
-    alt: "Testing the prototype with incense smoke drifting over the sensor"
-    title: "Testing the sensor’s response with incense smoke"
-  - url: /assets/images/portfolio/detector/detector-board.jpg
-    image_path: /assets/images/portfolio/detector/detector-board-th.jpg
-    alt: "Close-up of the microcontroller board and wiring"
-    title: "Wiring the microcontroller board"
 ---
 
 These projects turn what I learned in research and fieldwork into things people can wear, touch and see.
@@ -33,9 +20,24 @@ These projects turn what I learned in research and fieldwork into things people 
 
 I am developing a wearable dust detector and companion app for stone-cutting workers. The device monitors PM2.5 and PM10 and gives light and sound alerts when dust levels are high, so that changes in exposure are easier to notice during work. The app tracks dust trends over time and shows device status and health guidance. The design grew out of my fieldwork on pneumoconiosis and my interest in making occupational exposure visible.
 
-<figure><img src="{{ "/assets/images/portfolio/wearable-exploded.webp" | relative_url }}" alt="Exploded concept rendering of a wearable dust detector with a black enclosure and colour indicator lights" width="1024" height="1536" style="max-height:340px; width:auto; max-width:100%; margin:auto; display:block;" loading="lazy"><figcaption>Concept rendering of the detector’s internal assembly: enclosure, indicator lights, electronics, sensor, battery and vibration module.</figcaption></figure>
-
-{% include gallery id="detector_gallery" layout="third" caption="Building and testing the prototype. Click a photo to enlarge it." %}
+<div class="media-grid">
+  <figure class="media-grid__item media-grid__item--contain">
+    <a href="{{ "/assets/images/portfolio/wearable-exploded.webp" | relative_url }}"><img src="{{ "/assets/images/portfolio/wearable-exploded.webp" | relative_url }}" alt="Exploded concept rendering of the wearable dust detector" loading="lazy"></a>
+    <figcaption>Concept rendering: enclosure, indicator lights, electronics, sensor, battery and vibration module</figcaption>
+  </figure>
+  <figure class="media-grid__item">
+    <a href="{{ "/assets/images/portfolio/detector/detector-prototype.jpg" | relative_url }}"><img src="{{ "/assets/images/portfolio/detector/detector-prototype.jpg" | relative_url }}" alt="Working prototype with dust sensor, LED alert module and vibration motor wired to a microcontroller board" loading="lazy"></a>
+    <figcaption>Working prototype: dust sensor, LED alert lights and vibration motor</figcaption>
+  </figure>
+  <figure class="media-grid__item">
+    <a href="{{ "/assets/images/portfolio/detector/detector-smoke-test.jpg" | relative_url }}"><img src="{{ "/assets/images/portfolio/detector/detector-smoke-test.jpg" | relative_url }}" alt="Testing the prototype with incense smoke drifting over the sensor" loading="lazy"></a>
+    <figcaption>Testing the sensor’s response with incense smoke</figcaption>
+  </figure>
+  <figure class="media-grid__item">
+    <a href="{{ "/assets/images/portfolio/detector/detector-board.jpg" | relative_url }}"><img src="{{ "/assets/images/portfolio/detector/detector-board.jpg" | relative_url }}" alt="Close-up of the microcontroller board and wiring" loading="lazy"></a>
+    <figcaption>Wiring the microcontroller board</figcaption>
+  </figure>
+</div>
 
 </div>
 
