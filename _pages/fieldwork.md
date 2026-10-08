@@ -62,8 +62,4 @@ Our co-authored report brings together memories of mining work and accounts of l
 
 {% include doc-preview.html slug="cdb-pingxiang-article" pages=13 title="Memories of Pneumoconiosis in Pingxiang (China Development Brief, in Chinese)" %}
 
-<figure><img src="{{ "/assets/images/portfolio/pingxiang-interview.jpg" | relative_url }}" alt="Interview with an NGO leader at a table in Pingxiang" loading="lazy"><figcaption>Interview with Xiao Li, head of Xingjian Public Welfare, pictured at left. Photo from our report in China Development Brief.</figcaption></figure>
-
-<figure><img src="{{ "/assets/images/portfolio/pingxiang-community.jpg" | relative_url }}" alt="Former miners talking outside a rehabilitation centre" loading="lazy"><figcaption>Conversation outside a pneumoconiosis rehabilitation centre in Pingxiang. Photo from our report in China Development Brief.</figcaption></figure>
-
 </div>

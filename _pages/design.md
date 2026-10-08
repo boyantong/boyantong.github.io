@@ -20,7 +20,7 @@ These projects turn what I learned in research and fieldwork into things people 
 
 I am developing a wearable dust detector and companion app for stone-cutting workers. The device monitors PM2.5 and PM10 and gives light and sound alerts when dust levels are high, so that changes in exposure are easier to notice during work. The app tracks dust trends over time and shows device status and health guidance. The design grew out of my fieldwork on pneumoconiosis and my interest in making occupational exposure visible.
 
-<figure><img src="{{ "/assets/images/portfolio/wearable-exploded.webp" | relative_url }}" alt="Exploded concept rendering of a wearable dust detector with a black enclosure and colour indicator lights" width="1024" height="1536" style="max-height:640px; width:auto; max-width:100%; margin:auto; display:block;" loading="lazy"><figcaption>Concept rendering of the detector’s internal assembly: enclosure, indicator lights, electronics, sensor, battery and vibration module.</figcaption></figure>
+<figure><img src="{{ "/assets/images/portfolio/wearable-exploded.webp" | relative_url }}" alt="Exploded concept rendering of a wearable dust detector with a black enclosure and colour indicator lights" width="1024" height="1536" style="max-height:340px; width:auto; max-width:100%; margin:auto; display:block;" loading="lazy"><figcaption>Concept rendering of the detector’s internal assembly: enclosure, indicator lights, electronics, sensor, battery and vibration module.</figcaption></figure>
 
 </div>
 
