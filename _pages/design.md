@@ -20,12 +20,11 @@ These projects turn what I learned in research and fieldwork into things people 
 
 I am developing a wearable dust detector and companion app for stone-cutting workers. The device monitors PM2.5 and PM10 and gives light and sound alerts when dust levels are high, so that changes in exposure are easier to notice during work. The app tracks dust trends over time and shows device status and health guidance. The design grew out of my fieldwork on pneumoconiosis and my interest in making occupational exposure visible.
 
-<figure class="media-single">
-  <a href="{{ "/assets/images/portfolio/wearable-exploded.webp" | relative_url }}"><img src="{{ "/assets/images/portfolio/wearable-exploded.webp" | relative_url }}" alt="Exploded concept rendering of the wearable dust detector" loading="lazy"></a>
-  <figcaption>Concept rendering: enclosure, indicator lights, electronics, sensor, battery and vibration module</figcaption>
-</figure>
-
-<div class="media-grid media-grid--three">
+<div class="media-grid media-grid--four">
+  <figure class="media-grid__item media-grid__item--white">
+    <a href="{{ "/assets/images/portfolio/detector/detector-rendering.jpg" | relative_url }}"><img src="{{ "/assets/images/portfolio/detector/detector-rendering.jpg" | relative_url }}" alt="Exploded concept rendering of the wearable dust detector" loading="lazy"></a>
+    <figcaption>Concept rendering: enclosure, alert lights, board, sensor, battery and vibration module</figcaption>
+  </figure>
   <figure class="media-grid__item">
     <a href="{{ "/assets/images/portfolio/detector/detector-prototype.jpg" | relative_url }}"><img src="{{ "/assets/images/portfolio/detector/detector-prototype.jpg" | relative_url }}" alt="Working prototype with dust sensor, LED alert module and vibration motor wired to a microcontroller board" loading="lazy"></a>
     <figcaption>Working prototype: dust sensor, LED alert lights and vibration motor</figcaption>

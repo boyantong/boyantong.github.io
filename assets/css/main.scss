@@ -391,3 +391,18 @@ html {
   }
   img { max-height: 320px; width: auto; margin: 0 auto; }
 }
+
+.media-grid--four {
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 1.2em 1em;
+  @media (max-width: 1000px) { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  @media (max-width: 520px) { grid-template-columns: 1fr; }
+  figcaption { font-size: 0.85em !important; }
+}
+
+.media-grid__item--white a { background: #fff; border: 1px solid #e8ebee; }
+
+.page-banner {
+  margin: 0 0 1.5em !important;
+  img { width: 100%; border-radius: 10px !important; display: block; }
+}

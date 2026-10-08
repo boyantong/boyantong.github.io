@@ -8,6 +8,9 @@ toc_sticky: true
 toc_label: "Papers"
 excerpt: "Research on technology, occupational health, patient experience, citizenship and illness."
 ---
+<figure class="page-banner">
+  <img src="{{ "/assets/images/cards/research.jpg" | relative_url }}" alt="The pneumoconiosis policy paper: cover page, variable definitions, descriptive statistics and regression results">
+</figure>
 
 My research asks how social systems—platforms, labour markets and health institutions—shape what ordinary people can see, claim and manage in their own lives.
 
