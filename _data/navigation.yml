@@ -1,11 +1,15 @@
 main:
-  - title: "Portfolio"
-    url: /portfolio/
-  - title: "Posts"
+  - title: "Research"
+    url: /research/
+  - title: "Fieldwork"
+    url: /fieldwork/
+  - title: "Documentary"
+    url: /documentary/
+  - title: "Design & Tech"
+    url: /design/
+  - title: "Outreach"
+    url: /outreach/
+  - title: "Blog"
     url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
   - title: "About"
     url: /about/

@@ -1,0 +1,12 @@
+<!-- highlight the current section in the top navigation -->
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    var path = window.location.pathname.replace(/\/+$/, "/");
+    document.querySelectorAll(".greedy-nav .visible-links a, .greedy-nav .hidden-links a").forEach(function (a) {
+      var href = a.getAttribute("href");
+      if (!href || href === "/") return;
+      var target = new URL(href, window.location.origin).pathname.replace(/\/+$/, "/");
+      if (path === target || path.indexOf(target) === 0) a.classList.add("bt-active");
+    });
+  });
+</script>

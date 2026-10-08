@@ -1,11 +1,10 @@
-title: Boyan Tong | Media Studies Blog
+title: Boyan Tong | Sociology Blog
 email: tongboyan2027@126.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Personal blog by Boyan Tong, focusing on media studies, ethics, and technology.
-twitter_username: username
-github_username: username
+  Personal blog by Boyan Tong on sociology, occupational health, technology and social issues.
+github_username: boyantong
 minimal_mistakes_skin: air
-search: true
+search: false
 
 # Build settings
 markdown: kramdown
@@ -43,32 +42,17 @@ plugins:
 author:
   name   : "Boyan Tong"
   avatar : "/assets/images/3.jpg"
-  bio    : "Explore the charm of media studies."
+  bio    : "Explore the charm of social studies."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/boyantong"
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/boyantong"
 
 defaults:
   # _posts

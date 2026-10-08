@@ -1,0 +1,51 @@
+---
+title: "Research"
+permalink: /research/
+layout: single
+author_profile: true
+toc: true
+toc_sticky: true
+toc_label: "Papers"
+excerpt: "Three research papers on technology, occupational health and patient experience."
+---
+
+My research asks how social systems—platforms, labour markets and health institutions—shape what ordinary people can see, claim and manage in their own lives.
+
+<div class="project" markdown="1">
+
+## The Social Impact and Cross-cultural Analysis of Short-Video Recommendation Algorithms on TikTok
+
+<p class="project__meta">Boyan Tong · <em>The Frontiers of Society, Science and Technology</em> · 2026 · 8(3), 9–20</p>
+<div class="tag-row"><span>Published</span><span>Literature review</span><span>Media & society</span></div>
+
+This narrative literature review examines how TikTok and Douyin recommendation systems interact with users and shape information exposure. It traces the feedback loop between user behaviour and algorithmic prediction, and weighs wider access to knowledge against risks such as digital addiction, political polarisation and algorithmic bias. The paper also discusses how generative AI complicates content governance, and uses Hofstede’s cultural dimensions to compare the two platforms.
+
+[Read the published article](https://francis-press.com/papers/21077){: .btn .btn--primary} [DOI: 10.25236/FSST.2026.080302](https://doi.org/10.25236/FSST.2026.080302){: .btn .btn--inverse}
+
+</div>
+
+<div class="project" markdown="1">
+
+## Macro-level Governance Environment and Occupational Health: A Comparison of Pneumoconiosis Policies
+
+<p class="project__meta">Boyan Tong · Independent research · 16,000 words</p>
+<div class="tag-row"><span>Policy comparison</span><span>Panel data</span><span>Occupational health</span></div>
+
+This study combines international policy comparison, Chinese provincial panel data from 2007 to 2023, and institutional case studies. Regression models explore associations between industrial structure, labour protection, healthcare resources, pollution and reported tuberculosis incidence. The quantitative outcome is tuberculosis reporting, not a direct measure of pneumoconiosis. The paper then compares U.S. and international governance approaches and examines where workers lose access to diagnosis and compensation, proposing policy paths for prevention and governance in China.
+
+[Read the full paper (PDF)]({{ "/assets/files/pneumoconiosis-policy-boyan-tong.pdf" | relative_url }}){: .btn .btn--primary}
+
+</div>
+
+<div class="project" markdown="1">
+
+## User Experiences with Chronic-Disease Self-Management Apps: A Qualitative Analysis of Google Play and Apple App Store Reviews
+
+<p class="project__meta">Boyan Tong · Pioneer Academics · STS research</p>
+<div class="tag-row"><span>Qualitative coding</span><span>Python</span><span>Digital health</span></div>
+
+I used Python to collect 351 user reviews of eight chronic-disease self-management apps, then screened them to 137 reviews for inductive qualitative coding. The study identifies what users value, such as long-term records and information sharing, alongside usability and accessibility barriers: small text, inflexible recording schedules, paywalls and disruptive updates. It asks how these design choices affect people whose physical abilities change as their symptoms worsen. Because app-store reviewers are a self-selected group, the findings describe reported experiences rather than how common problems are among all patients.
+
+[Read the full paper (PDF)]({{ "/assets/files/chronic-disease-apps-boyan-tong.pdf" | relative_url }}){: .btn .btn--primary}
+
+</div>

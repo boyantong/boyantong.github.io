@@ -1,0 +1,171 @@
+---
+# Site styles: theme + custom overrides
+---
+
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
+@import "minimal-mistakes";
+
+/* ---------- Palette ---------- */
+$bt-accent: #b5532f;      /* warm rust: coal, earth, fieldwork */
+$bt-ink: #1f2933;
+
+/* ---------- Sticky, horizontal navigation ---------- */
+.masthead {
+  position: sticky;
+  top: 0;
+  z-index: 30;
+  background: rgba(255, 255, 255, 0.96);
+  backdrop-filter: saturate(160%) blur(6px);
+  -webkit-backdrop-filter: saturate(160%) blur(6px);
+  border-bottom: 1px solid #e8e8e8;
+  box-shadow: 0 1px 8px rgba(0, 0, 0, 0.04);
+}
+
+.greedy-nav {
+  background: transparent;
+
+  .site-title {
+    font-weight: 700;
+    letter-spacing: 0.01em;
+  }
+
+  .visible-links a {
+    position: relative;
+    padding: 0.4em 0.15em;
+    font-weight: 500;
+    color: $bt-ink;
+    transition: color 0.2s ease;
+
+    /* replace theme underline with an animated one */
+    &::before {
+      content: "";
+      position: absolute;
+      left: 0;
+      right: 0;
+      bottom: 0.15em;
+      height: 2px;
+      background: $bt-accent;
+      transform: scaleX(0);
+      transform-origin: left center;
+      transition: transform 0.25s ease;
+    }
+
+    &:hover,
+    &:focus-visible {
+      color: $bt-accent;
+    }
+
+    &:hover::before,
+    &:focus-visible::before {
+      transform: scaleX(1);
+    }
+  }
+
+  /* current page stays underlined */
+  .visible-links a.bt-active {
+    color: $bt-accent;
+    &::before { transform: scaleX(1); }
+  }
+
+  .hidden-links a:hover {
+    color: $bt-accent;
+  }
+}
+
+/* ---------- Links & buttons ---------- */
+.page__content a:not(.btn) {
+  color: $bt-accent;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 3px;
+  &:hover { text-decoration-thickness: 2px; }
+}
+
+.btn--primary {
+  background-color: $bt-accent;
+  border-color: $bt-accent;
+  transition: transform 0.15s ease, box-shadow 0.15s ease, background-color 0.15s ease;
+  &:hover {
+    background-color: darken($bt-accent, 8%);
+    transform: translateY(-1px);
+    box-shadow: 0 4px 10px rgba(181, 83, 47, 0.25);
+  }
+}
+
+.btn--inverse {
+  border-color: $bt-accent;
+  color: $bt-accent !important;
+  &:hover { background: $bt-accent; color: #fff !important; }
+}
+
+/* ---------- Home: cards ---------- */
+.feature__wrapper {
+  border-bottom: none;
+}
+
+.feature__item .archive__item {
+  height: 100%;
+  border-radius: 10px;
+  overflow: hidden;
+  background: #fff;
+  border: 1px solid #ececec;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.04);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+
+  &:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 10px 24px rgba(0, 0, 0, 0.10);
+  }
+
+  .archive__item-teaser {
+    border-radius: 0;
+    img { transition: transform 0.4s ease; }
+  }
+  &:hover .archive__item-teaser img { transform: scale(1.04); }
+
+  .archive__item-body { padding: 0 1em 1em; }
+  .archive__item-title { margin-top: 0.8em; }
+}
+
+/* ---------- Project blocks on category pages ---------- */
+.project {
+  margin: 2em 0 2.5em;
+  padding: 1.25em 1.5em 0.5em;
+  border: 1px solid #ececec;
+  border-left: 4px solid $bt-accent;
+  border-radius: 8px;
+  background: #fcfbfa;
+}
+
+.project__meta {
+  font-size: 0.8em;
+  color: #6b6b6b;
+  margin-top: -0.6em;
+}
+
+.tag-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4em;
+  margin: 0.4em 0 1em;
+  span {
+    font-size: 0.7em;
+    padding: 0.2em 0.65em;
+    border-radius: 999px;
+    background: rgba(181, 83, 47, 0.1);
+    color: $bt-accent;
+  }
+}
+
+/* scrollable long screenshots */
+.scroll-shot {
+  max-height: 560px;
+  overflow-y: auto;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  img { display: block; width: 100%; }
+}
+
+/* images open full size on click */
+.page__content figure img { border-radius: 6px; }
