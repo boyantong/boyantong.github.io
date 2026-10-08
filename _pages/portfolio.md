@@ -76,11 +76,13 @@ Using Python to collect app-store reviews and inductive qualitative coding, I ex
 
 ### BREATH·LEDGER
 
+**Mask Interaction Demo**
+
 {% include video id="jrOOskPCdiQ" provider="youtube" %}
 
-BREATH·LEDGER is an interactive installation inspired by my pneumoconiosis fieldwork in Pingxiang. A family photograph is obscured by a layer of digital dust. As a visitor approaches and puts on a mask, the dust clears; when the visitor leaves, it returns. The interaction makes a largely overlooked injury visible and invites reflection on the tension between earning a living and protecting one’s health, and on how responsibility for care falls on individuals and families. The video above demonstrates the mask interaction.
+BREATH·LEDGER is an interactive installation inspired by my pneumoconiosis fieldwork in Pingxiang. A family photograph is obscured by a layer of digital dust. As a visitor approaches and puts on a mask, the dust clears; when the visitor leaves, it returns. The interaction makes a largely overlooked injury visible and invites reflection on the tension between earning a living and protecting one’s health, and on how responsibility for care falls on individuals and families. The *Mask Interaction Demo* video above shows this interaction.
 
-[Watch the mask interaction demo on YouTube](https://youtu.be/jrOOskPCdiQ){: .btn .btn--primary}
+[Watch “Mask Interaction Demo” on YouTube](https://youtu.be/jrOOskPCdiQ){: .btn .btn--primary}
 
 ## Wearable dust detector
 
