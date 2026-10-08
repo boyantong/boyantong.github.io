@@ -27,16 +27,11 @@ I coordinated a 45-minute online lecture on pneumoconiosis prevention, given by 
 <p class="project__meta">Health communications intern · Inner Mongolia & Beijing</p>
 <div class="tag-row"><span>Eye-care charity</span><span>Field report</span></div>
 
-The China Lifeline Express is a charity that runs train hospitals offering free cataract surgery. In Inner Mongolia I observed cataract care on the train, and I wrote a field report that was published on the foundation’s WeChat account. The experience extended my interest in healthcare access by showing how mobile services bring treatment closer to patients’ communities.
+The China Lifeline Express is a charity that runs train hospitals offering free cataract surgery. In Inner Mongolia I observed cataract care on the train, and I wrote a field report, *On the Hong Kong Guangming Train: Seeing How Sight Is Restored*, which the foundation published on its WeChat account on 18 August 2026. The experience extended my interest in healthcare access by showing how mobile services bring treatment closer to patients’ communities.
 
 [Read the article on WeChat (Chinese)](https://mp.weixin.qq.com/s/d2zFCPuwTV2vQi2Q1m4kBA){: .btn .btn--primary}
 
-<figure>
-  <div class="scroll-shot">
-    <img src="{{ "/assets/images/portfolio/lifeline-express-screenshot.jpg" | relative_url }}" alt="Full-page screenshot of the China Lifeline Express WeChat article with photos from the train hospital" loading="lazy">
-  </div>
-  <figcaption>Screenshot of the article, with photos from the train hospital (scroll inside the frame). <a href="{{ "/assets/images/portfolio/lifeline-express-screenshot.jpg" | relative_url }}">Open full size</a>.</figcaption>
-</figure>
+{% include doc-preview.html slug="lifeline-express-article" pages=11 pdf="/assets/files/lifeline-express-article.pdf" title="On the Hong Kong Guangming Train: Seeing How Sight Is Restored (in Chinese)" %}
 
 </div>
 
