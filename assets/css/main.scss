@@ -436,3 +436,14 @@ html {
   font-style: italic;
   color: darken($bt-accent, 12%);
 }
+
+.home-motto {
+  max-width: 820px;
+  margin: 0.5em auto 2.2em !important;
+  padding: 0;
+  border: none !important;
+  text-align: center;
+  font-size: 1.25em !important;
+  font-style: italic;
+  color: darken($bt-accent, 12%);
+}
