@@ -22,15 +22,15 @@ I care about how a film is meant to be seen: its frame, scale and image quality.
 <div class="media-grid media-grid--three media-grid--square">
   <figure class="media-grid__item">
     <a href="{{ "/assets/images/hobbies/film-screen.jpg" | relative_url }}"><img src="{{ "/assets/images/hobbies/film-screen-sq.jpg" | relative_url }}" alt="The giant screen of an IMAX GT laser hall before the film" loading="lazy"></a>
-    <figcaption>The IMAX GT laser hall before <em>The Odyssey</em></figcaption>
+    <figcaption>The IMAX GT laser hall at the China Film Museum, before <em>The Odyssey</em></figcaption>
   </figure>
   <figure class="media-grid__item">
     <a href="{{ "/assets/images/hobbies/film-camera.jpg" | relative_url }}"><img src="{{ "/assets/images/hobbies/film-camera-sq.jpg" | relative_url }}" alt="An IMAX film camera on display behind glass" loading="lazy"></a>
-    <figcaption>An IMAX film camera on display</figcaption>
+    <figcaption>An IMAX film camera on display at the China Film Museum</figcaption>
   </figure>
   <figure class="media-grid__item">
     <a href="{{ "/assets/images/hobbies/film-projector.jpg" | relative_url }}"><img src="{{ "/assets/images/hobbies/film-projector-sq.jpg" | relative_url }}" alt="An IMAX film projector on display" loading="lazy"></a>
-    <figcaption>An IMAX film projector</figcaption>
+    <figcaption>An IMAX film projector at the China Film Museum</figcaption>
   </figure>
 </div>
 
@@ -46,8 +46,8 @@ I started building LEGO when I was six. Today I build and collect big sets such 
 
 <div class="media-grid media-grid--three media-grid--square">
   <figure class="media-grid__item">
-    <a href="{{ "/assets/images/hobbies/lego-early.jpg" | relative_url }}"><img src="{{ "/assets/images/hobbies/lego-early-sq.jpg" | relative_url }}" alt="A small, colourful LEGO aircraft built from basic bricks" loading="lazy"></a>
-    <figcaption>An early build of my own</figcaption>
+    <a href="{{ "/assets/images/hobbies/lego-early.jpg" | relative_url }}"><img src="{{ "/assets/images/hobbies/lego-early-sq.jpg" | relative_url }}" alt="A small, colourful LEGO helicopter built from basic bricks" loading="lazy"></a>
+    <figcaption>An early build of my own: a helicopter</figcaption>
   </figure>
   <figure class="media-grid__item">
     <a href="{{ "/assets/images/hobbies/lego-parts.jpg" | relative_url }}"><img src="{{ "/assets/images/hobbies/lego-parts-sq.jpg" | relative_url }}" alt="Hundreds of Technic pieces spread out beside an open instruction book" loading="lazy"></a>
@@ -65,22 +65,22 @@ I started building LEGO when I was six. Today I build and collect big sets such 
 
 ## Photography
 
-<div class="tag-row"><span>Plane spotting</span><span>Everyday snapshots</span></div>
+<div class="tag-row"><span>Everyday snapshots</span><span>Aviation photography</span></div>
 
-I enjoy plane spotting at Xiamen Gaoqi Airport and taking photos of whatever catches my eye.
+I love taking snapshots of whatever catches my eye, and aviation photography: catching planes as they come in to land.
 
 <div class="media-grid media-grid--three media-grid--square">
   <figure class="media-grid__item">
     <a href="{{ "/assets/images/hobbies/photo-temple.jpg" | relative_url }}"><img src="{{ "/assets/images/hobbies/photo-temple-sq.jpg" | relative_url }}" alt="A wide-body airliner flies low over the ornate roof of a temple" loading="lazy"></a>
-    <figcaption>An airliner on approach over a temple roof</figcaption>
+    <figcaption>An airliner over a temple roof on approach to Xiamen Gaoqi Airport</figcaption>
   </figure>
   <figure class="media-grid__item">
     <a href="{{ "/assets/images/hobbies/photo-city.jpg" | relative_url }}"><img src="{{ "/assets/images/hobbies/photo-city-sq.jpg" | relative_url }}" alt="A plane descends towards the city with mountains behind" loading="lazy"></a>
-    <figcaption>Plane spotting over the city</figcaption>
+    <figcaption>Plane spotting over Xiamen, near Gaoqi Airport</figcaption>
   </figure>
   <figure class="media-grid__item">
     <a href="{{ "/assets/images/hobbies/photo-dusk.jpg" | relative_url }}"><img src="{{ "/assets/images/hobbies/photo-dusk-sq.jpg" | relative_url }}" alt="A street at dusk under an elevated road, with streetlights, a lit bus and a deep blue sky" loading="lazy"></a>
-    <figcaption>Blue hour under the overpass</figcaption>
+    <figcaption>Blue hour on my way to the gym</figcaption>
   </figure>
 </div>
 
@@ -90,18 +90,18 @@ I enjoy plane spotting at Xiamen Gaoqi Airport and taking photos of whatever cat
 
 ## Travel
 
-<div class="tag-row"><span>Hometown</span><span>Travel</span></div>
+<div class="tag-row"><span>Quanzhou</span><span>Travel</span></div>
 
-Time by the sea and in the mountains, and the places I come back to.
+I love my hometown, Quanzhou. I enjoy the quiet of the mountains and the ease of life by the sea.
 
 <div class="media-grid media-grid--three media-grid--square">
   <figure class="media-grid__item">
     <a href="{{ "/assets/images/hobbies/travel-beach.jpg" | relative_url }}"><img src="{{ "/assets/images/hobbies/travel-beach-sq.jpg" | relative_url }}" alt="Boyan Tong standing by the sea with fishing boats behind him" loading="lazy"></a>
-    <figcaption>By the sea</figcaption>
+    <figcaption>Golden Coast, Shishi, Quanzhou</figcaption>
   </figure>
   <figure class="media-grid__item">
     <a href="{{ "/assets/images/hobbies/travel-mountains.jpg" | relative_url }}"><img src="{{ "/assets/images/hobbies/travel-mountains-sq.jpg" | relative_url }}" alt="Boyan Tong sitting on a stone wall in front of cloud-covered mountains" loading="lazy"></a>
-    <figcaption>Under the clouds in the mountains</figcaption>
+    <figcaption>Under the clouds in Dali</figcaption>
   </figure>
   <figure class="media-grid__item">
     <a href="{{ "/assets/images/hobbies/travel-stairs.jpg" | relative_url }}"><img src="{{ "/assets/images/hobbies/travel-stairs-sq.jpg" | relative_url }}" alt="Boyan Tong on a staircase against a clear blue sky" loading="lazy"></a>
@@ -115,9 +115,9 @@ Time by the sea and in the mountains, and the places I come back to.
 
 ## Fitness
 
-<div class="tag-row"><span>Strength training</span></div>
+<div class="tag-row"><span>Cardio</span><span>Strength training</span></div>
 
-The gym is where I switch off from screens and papers.
+I enjoy both cardio and strength training, and I go to the gym twice a week. I once tried a ketogenic diet, but found that regular training worked far better for me.
 
 <div class="media-grid media-grid--three media-grid--square">
   <figure class="media-grid__item">
