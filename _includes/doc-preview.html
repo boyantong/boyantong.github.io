@@ -4,15 +4,15 @@
   Page images live at /assets/previews/<slug>/p-01.jpg, p-02.jpg, ...
 {% endcomment %}
 {% assign n = include.pages | plus: 0 %}
-<div class="doc-preview">
+<div class="doc-preview{% if include.wide %} doc-preview--wide{% endif %}">
   <div class="doc-preview__bar">
     <span class="doc-preview__title">{{ include.title }}</span>
-    <span class="doc-preview__count">{{ n }} pages · scroll to read</span>
+    <span class="doc-preview__count">{{ n }} {% if include.unit %}{{ include.unit }}{% else %}pages{% endif %} · scroll to view</span>
   </div>
   <div class="doc-preview__pages" tabindex="0" aria-label="Preview of {{ include.title }}">
     {% for i in (1..n) %}{% if i < 10 %}{% assign num = i | prepend: "0" %}{% else %}{% assign num = i %}{% endif %}
     <figure class="doc-preview__page">
-      <img src="{{ '/assets/previews/' | append: include.slug | append: '/p-' | append: num | append: '.jpg' | relative_url }}" alt="Page {{ i }} of {{ include.title }}" loading="{% if i <= 2 %}eager{% else %}lazy{% endif %}" width="1100" height="1556">
+      <img src="{{ '/assets/previews/' | append: include.slug | append: '/p-' | append: num | append: '.jpg' | relative_url }}" alt="Page {{ i }} of {{ include.title }}" loading="{% if i <= 2 %}eager{% else %}lazy{% endif %}" {% if include.wide %}width="2200" height="778"{% else %}width="1100" height="1556"{% endif %}>
       <figcaption>{{ i }} / {{ n }}</figcaption>
     </figure>
     {% endfor %}

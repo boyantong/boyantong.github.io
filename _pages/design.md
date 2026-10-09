@@ -56,6 +56,8 @@ BREATH·LEDGER is an interactive installation inspired by my pneumoconiosis fiel
 
 [Watch “Mask Interaction Demo” on YouTube](https://youtu.be/jrOOskPCdiQ){: .btn .btn--primary}
 
+{% include doc-preview.html slug="breath-ledger" pages=10 wide=true unit="boards" title="BREATH·LEDGER project boards" %}
+
 </div>
 
 <div class="project" markdown="1">
