@@ -69,25 +69,6 @@ BREATH·LEDGER is an interactive installation inspired by my pneumoconiosis fiel
 
 This project asks why accessibility infrastructure so often fails on everyday streets, and how those failures affect the independent mobility of blind and visually impaired people. Through public interviews, case studies and spatial research, I found that broken, blocked or poorly maintained tactile paving is part of a wider urban system that treats sight as the default. In response, I translated common obstacles, tactile paving patterns and street furniture into a modular tactile language. Visitors explore the pieces by touch, and the system turns their movement into sound, so that barriers sighted people rarely notice become something to feel and hear.
 
-<figure>
-  <a href="{{ "/assets/images/portfolio/invisible-barriers/page-1.jpg" | relative_url }}"><img src="{{ "/assets/images/portfolio/invisible-barriers/page-1.jpg" | relative_url }}" alt="Invisible Barriers project board: title, introduction and news reports on blocked tactile paving" loading="lazy"></a>
-  <figcaption>Introduction and inspiration: mobility barriers for visually impaired people.</figcaption>
-</figure>
-<figure>
-  <a href="{{ "/assets/images/portfolio/invisible-barriers/page-2.jpg" | relative_url }}"><img src="{{ "/assets/images/portfolio/invisible-barriers/page-2.jpg" | relative_url }}" alt="Research board: public interviews, common obstacles on tactile paving and the consequences of invisible barriers" loading="lazy"></a>
-  <figcaption>Research: public interviews and why the physical environment becomes harder for disabled people.</figcaption>
-</figure>
-<figure>
-  <a href="{{ "/assets/images/portfolio/invisible-barriers/page-3.jpg" | relative_url }}"><img src="{{ "/assets/images/portfolio/invisible-barriers/page-3.jpg" | relative_url }}" alt="Ideation board: concept development, interactive logic, Arduino wiring and map design" loading="lazy"></a>
-  <figcaption>Ideation, interactive logic, technical support and map design.</figcaption>
-</figure>
-<figure>
-  <a href="{{ "/assets/images/portfolio/invisible-barriers/page-4.jpg" | relative_url }}"><img src="{{ "/assets/images/portfolio/invisible-barriers/page-4.jpg" | relative_url }}" alt="3D design board: modular tactile pieces, material experiments and sound research" loading="lazy"></a>
-  <figcaption>3D design, module exploration, material experiments and sound research.</figcaption>
-</figure>
-<figure>
-  <a href="{{ "/assets/images/portfolio/invisible-barriers/page-5.jpg" | relative_url }}"><img src="{{ "/assets/images/portfolio/invisible-barriers/page-5.jpg" | relative_url }}" alt="Final display of the white tactile installation, with visitor feedback and reflective conclusion" loading="lazy"></a>
-  <figcaption>Final display, visitor feedback and reflective conclusion.</figcaption>
-</figure>
+{% include doc-preview.html slug="invisible-barriers" pages=5 wide=true unit="boards" title="Invisible Barriers project boards" %}
 
 </div>
