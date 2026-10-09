@@ -424,3 +424,15 @@ html {
 /* wide (landscape) boards use the full frame width */
 .doc-preview--wide .doc-preview__page { max-width: 100%; }
 .doc-preview--wide .doc-preview__pages { max-height: 640px; }
+
+.media-grid--square .media-grid__item a { aspect-ratio: 1 / 1; }
+
+.page__content blockquote {
+  border-left: none;
+  margin: 1.4em 0;
+  padding: 0.2em 0;
+  text-align: center;
+  font-size: 1.1em;
+  font-style: italic;
+  color: darken($bt-accent, 12%);
+}
