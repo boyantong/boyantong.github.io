@@ -78,6 +78,10 @@ I enjoy plane spotting at Xiamen Gaoqi Airport and taking photos of whatever cat
     <a href="{{ "/assets/images/hobbies/photo-city.jpg" | relative_url }}"><img src="{{ "/assets/images/hobbies/photo-city-sq.jpg" | relative_url }}" alt="A plane descends towards the city with mountains behind" loading="lazy"></a>
     <figcaption>Plane spotting over the city</figcaption>
   </figure>
+  <figure class="media-grid__item">
+    <a href="{{ "/assets/images/hobbies/photo-dusk.jpg" | relative_url }}"><img src="{{ "/assets/images/hobbies/photo-dusk-sq.jpg" | relative_url }}" alt="A street at dusk under an elevated road, with streetlights, a lit bus and a deep blue sky" loading="lazy"></a>
+    <figcaption>Blue hour under the overpass</figcaption>
+  </figure>
 </div>
 
 </div>
