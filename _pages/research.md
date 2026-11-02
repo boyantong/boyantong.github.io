@@ -46,9 +46,9 @@ This study combines international policy comparison, Chinese provincial panel da
 <p class="project__meta">Boyan Tong · Pioneer Academics · STS research</p>
 <div class="tag-row"><span>Qualitative coding</span><span>Python</span><span>Digital health</span></div>
 
-I used Python to collect 351 user reviews of eight chronic-disease self-management apps, then screened them to 137 reviews for inductive qualitative coding. The study identifies what users value, such as long-term records and information sharing, alongside usability and accessibility barriers: small text, inflexible recording schedules, paywalls and disruptive updates. It asks how these design choices affect people whose physical abilities change as their symptoms worsen. Because app-store reviewers are a self-selected group, the findings describe reported experiences rather than how common problems are among all patients.
+I used Python to collect recent Google Play and App Store reviews of eight chronic-disease self-management apps, and analysed 137 of them through inductive qualitative coding. The study identifies what users value, such as long-term records and information sharing, alongside usability and accessibility barriers: small text, inflexible recording schedules, paywalls and disruptive updates. It asks how these design choices affect people whose physical abilities change as their symptoms worsen. Because app-store reviewers are a self-selected group, the findings describe reported experiences rather than how common problems are among all patients.
 
-{% include doc-preview.html slug="chronic-disease-apps" pages=46 title="User Experiences with Chronic-Disease Self-Management Apps" %}
+{% include doc-preview.html slug="chronic-disease-apps" pages=40 title="User Experiences with Chronic-Disease Self-Management Apps" %}
 
 </div>
 
