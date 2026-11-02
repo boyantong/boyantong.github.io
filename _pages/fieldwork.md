@@ -53,13 +53,13 @@ After the trip I organised the interview materials into a 4,000-word in-depth re
 
 ## Memories of Pneumoconiosis in Pingxiang: An NGO Leader, a Doctor, a Village Party Secretary and Patients
 
-<p class="project__meta">Guangxuan Meng & Boyan Tong · <em>China Development Brief</em> · 18 March 2026 · Article in Chinese</p>
+<p class="project__meta">Guangxuan Meng & Boyan Tong · <em>China Development Brief</em> · 18 March 2026 · Published in Chinese; English version below</p>
 <div class="tag-row"><span>Published</span><span>In-depth report</span></div>
 
 Our co-authored report brings together memories of mining work and accounts of life with pneumoconiosis. It examines the difficulty of obtaining compensation when employment records are missing, the role of rehabilitation centres, and the burden of long-term care within families.
 
 [Read the report in China Development Brief (Chinese)](https://www.chinadevelopmentbrief.org.cn/news/detail/66733.html){: .btn .btn--primary}
 
-{% include doc-preview.html slug="cdb-pingxiang-article" pages=13 title="Memories of Pneumoconiosis in Pingxiang (China Development Brief, in Chinese)" %}
+{% include doc-preview.html slug="pingxiang-report-en" pages=14 title="Memories of Pneumoconiosis in Pingxiang (English version)" %}
 
 </div>
