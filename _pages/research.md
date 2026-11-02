@@ -33,9 +33,9 @@ This narrative literature review examines how TikTok and Douyin recommendation s
 
 This study combines international policy comparison, Chinese provincial panel data from 2007 to 2023, and institutional case studies. Regression models explore associations between industrial structure, labour protection, healthcare resources, pollution and reported tuberculosis incidence. The quantitative outcome is tuberculosis reporting, not a direct measure of pneumoconiosis. The paper then compares U.S. and international governance approaches and examines where workers lose access to diagnosis and compensation, proposing policy paths for prevention and governance in China.
 
-[Read the published article](https://drpress.org/ojs/index.php/ajmss/article/view/36277){: .btn .btn--primary}
+[Read the published article](https://drpress.org/ojs/index.php/ajmss/article/view/36277){: .btn .btn--primary} [DOI: 10.54097/j0mks270](https://doi.org/10.54097/j0mks270){: .btn .btn--inverse}
 
-{% include doc-preview.html slug="pneumoconiosis-policy" pages=13 title="A Comparison of Pneumoconiosis Policies" %}
+{% include doc-preview.html slug="pneumoconiosis-policy" pages=2 title="A Comparison of Pneumoconiosis Policies" %}
 
 </div>
 
