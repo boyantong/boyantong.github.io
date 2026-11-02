@@ -41,9 +41,9 @@ fieldwork_gallery:
 <p class="project__meta">Field researcher & writer · organised with Yuanxingke</p>
 <div class="tag-row"><span>Interviews</span><span>Oral history</span><span>Reporting</span></div>
 
-Pingxiang, once known as the “coal capital” south of the Yangtze, is home to many former miners living with pneumoconiosis. I interviewed patients and their families, a respiratory physician, the head of a local public-welfare organisation and a county official. Their accounts led me to investigate how employment histories, access to diagnosis and compensation shape life after occupational illness, and how illness changes caregiving, household income and children’s education.
+In Pingxiang, we used oral histories to document rural migrant workers’ experiences of work and pneumoconiosis in the context of the city’s mining history. I examined how gaps in occupational health protections affect families: wives shoulder the dual burden of caregiving and supporting the household, while children’s educational options narrow. We also traced barriers workers face in having their illness formally recognized as work-related, including how precarious employment and missing contracts make it difficult to establish responsibility. Visiting nonprofit rehabilitation centers led me to consider their role in filling institutional gaps, the tension between immediate assistance and institutional reform, and the government restrictions that shape their work.
 
-After the trip I organised the interview materials into a 4,000-word in-depth report, and edited short WeChat videos supporting the team’s public fundraising campaign, which raised more than RMB 20,000.
+After the trip, I helped turn the interviews into a coauthored report of around 4,000 words, published in *China Development Brief*. I also edited short WeChat videos for the team’s fundraising campaign, which raised more than RMB 20,000.
 
 {% include gallery id="fieldwork_gallery" layout="third" caption="Rehabilitation centres, a mining history exhibition and home visits with families. Click a photo to enlarge it." %}
 
@@ -55,8 +55,6 @@ After the trip I organised the interview materials into a 4,000-word in-depth re
 
 <p class="project__meta">Guangxuan Meng & Boyan Tong · <em>China Development Brief</em> · 18 March 2026 · Published in Chinese; English version below</p>
 <div class="tag-row"><span>Published</span><span>In-depth report</span></div>
-
-Our co-authored report brings together memories of mining work and accounts of life with pneumoconiosis. It examines the difficulty of obtaining compensation when employment records are missing, the role of rehabilitation centres, and the burden of long-term care within families.
 
 [Read the report in China Development Brief (Chinese)](https://www.chinadevelopmentbrief.org.cn/news/detail/66733.html){: .btn .btn--primary}
 

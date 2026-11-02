@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 toc: true
 toc_sticky: true
-toc_label: "Papers"
+toc_label: "Research & Essays"
 excerpt: "Research on technology, occupational health, patient experience, citizenship and illness."
 ---
 
@@ -16,7 +16,7 @@ excerpt: "Research on technology, occupational health, patient experience, citiz
 <p class="project__meta">Boyan Tong · <em>The Frontiers of Society, Science and Technology</em> · 2026 · 8(3), 9–20</p>
 <div class="tag-row"><span>Published</span><span>Literature review</span><span>Media & society</span></div>
 
-This narrative literature review examines how TikTok and Douyin recommendation systems interact with users and shape information exposure. It traces the feedback loop between user behaviour and algorithmic prediction, and weighs wider access to knowledge against risks such as digital addiction, political polarisation and algorithmic bias. The paper also discusses how generative AI complicates content governance, and uses Hofstede’s cultural dimensions to compare the two platforms.
+How much do we choose what we watch, and how much do recommendation systems shape that choice? In this narrative literature review, I examine the feedback loop between user behavior and algorithmic prediction on TikTok and Douyin. I consider how personalization can broaden access to information while creating risks of addiction, political polarization and bias. I also draw on Hofstede’s cultural dimensions to compare the two platforms and examine the new challenges generative AI poses for content governance.
 
 [Read the published article](https://francis-press.com/papers/21077){: .btn .btn--primary} [DOI: 10.25236/FSST.2026.080302](https://doi.org/10.25236/FSST.2026.080302){: .btn .btn--inverse}
 
@@ -31,7 +31,7 @@ This narrative literature review examines how TikTok and Douyin recommendation s
 <p class="project__meta">Boyan Tong · <em>Academic Journal of Management and Social Sciences</em> · 2026 · 18(1), 44–56</p>
 <div class="tag-row"><span>Published</span><span>Policy comparison</span><span>Panel data</span><span>Occupational health</span></div>
 
-This study combines international policy comparison, Chinese provincial panel data from 2007 to 2023, and institutional case studies. Regression models explore associations between industrial structure, labour protection, healthcare resources, pollution and reported tuberculosis incidence. The quantitative outcome is tuberculosis reporting, not a direct measure of pneumoconiosis. The paper then compares U.S. and international governance approaches and examines where workers lose access to diagnosis and compensation, proposing policy paths for prevention and governance in China.
+This study combines international policy comparisons, institutional case studies and Chinese provincial panel data from 2007 to 2023 to examine how institutions shape protections for workers. The regressions explore associations between industrial structure, labor protections, healthcare resources, pollution and reported tuberculosis incidence. The policy and case analyses focus on barriers to occupational disease diagnosis and compensation, drawing on U.S. and international experience to consider ways to strengthen prevention and protection in China.
 
 [Read the published article](https://drpress.org/ojs/index.php/ajmss/article/view/36277){: .btn .btn--primary} [DOI: 10.54097/j0mks270](https://doi.org/10.54097/j0mks270){: .btn .btn--inverse}
 
@@ -46,7 +46,7 @@ This study combines international policy comparison, Chinese provincial panel da
 <p class="project__meta">Boyan Tong · Pioneer Academics · STS research</p>
 <div class="tag-row"><span>Qualitative coding</span><span>Python</span><span>Digital health</span></div>
 
-I used Python to collect recent Google Play and App Store reviews of eight chronic-disease self-management apps, and analysed 137 of them through inductive qualitative coding. The study identifies what users value, such as long-term records and information sharing, alongside usability and accessibility barriers: small text, inflexible recording schedules, paywalls and disruptive updates. It asks how these design choices affect people whose physical abilities change as their symptoms worsen. Because app-store reviewers are a self-selected group, the findings describe reported experiences rather than how common problems are among all patients.
+As chronic disease symptoms worsen, can health apps adapt to patients’ changing needs? I used Python to collect Google Play and App Store reviews of eight chronic disease management apps, then analyzed 137 reviews through inductive qualitative coding. Users valued long-term records and information sharing, but also described small text, rigid logging schedules, paywalls and disruptive updates. Their accounts led me to ask whether app design itself can create invisible digital barriers.
 
 {% include doc-preview.html slug="chronic-disease-apps-v3" pages=40 title="User Experiences with Chronic-Disease Self-Management Apps" %}
 
@@ -56,10 +56,10 @@ I used Python to collect recent Google Play and App Store reviews of eight chron
 
 ## Citizens by Law, Outsiders by Culture: Civic Nationalism and the Unequal Burden of Belonging
 
-<p class="project__meta">Boyan Tong · Independent research · Political theory</p>
+<p class="project__meta">Boyan Tong · Independent essay · Political theory</p>
 <div class="tag-row"><span>Nationalism</span><span>Citizenship</span><span>Case comparison</span></div>
 
-Civic nationalism is often seen as more inclusive than ethnic nationalism because membership rests on shared laws and values rather than descent. This essay argues that civic nationalism is indeed more open at the level of formal membership, but becomes exclusionary when dominant interpretations of universal values are turned into cultural tests of belonging. It develops three criteria—formal openness, the unequal burdens that universal rules can impose, and who is recognised as a credible interpreter of freedom and equality—and applies them to France’s 2004 law on religious symbols in schools, the British *Begum* case and Canada’s *Multani* decision, drawing on Anderson, Asad and Mills.
+Legal citizenship does not necessarily bring cultural belonging. In this essay, I argue that civic nationalism can offer membership through shared laws and values while imposing cultural expectations that place unequal burdens on some citizens. Drawing on Anderson, Asad and Mills, I examine the gap between citizenship and social recognition through three questions: who can become a member, who bears the costs of universal rules, and whose interpretation of freedom and equality is treated as authoritative.
 
 {% include doc-preview.html slug="civic-nationalism-v3" pages=12 title="Citizens by Law, Outsiders by Culture" %}
 
@@ -69,10 +69,10 @@ Civic nationalism is often seen as more inclusive than ethnic nationalism becaus
 
 ## When Treatment Ends but Illness Persists: How Should Medicine Define and Treat Persistent Symptoms After Lyme Disease?
 
-<p class="project__meta">Boyan Tong · Independent research · Health humanities · Creative dialogue</p>
+<p class="project__meta">Boyan Tong · Creative dialogue · Health humanities</p>
 <div class="tag-row"><span>Illness narratives</span><span>Doctor–patient relationship</span><span>Medical uncertainty</span></div>
 
-Written as an imagined dialogue between the writer Meghan O’Rourke and the physician-researcher Allen Steere, this piece asks how medicine should respond when patients’ symptoms persist after standard treatment for Lyme disease. As the two co-edit a joint statement, they negotiate between clinical evidence and lived experience—whether improvement after antibiotics proves ongoing infection, who gets to speak for patients, and how uncertainty can be acknowledged without dismissing suffering.
+What happens when evidence-based medicine meets patients’ accounts of illness? Some people continue to experience brain fog and fatigue after standard treatment for Lyme disease. Against this backdrop, I explore what happens when clinical evidence and lived experience do not align: how treatment responses should be interpreted, who has the authority to define medical knowledge, and how uncertainty in treatment can be acknowledged.
 
 {% include doc-preview.html slug="lyme-dialogue-v2" pages=7 title="When Treatment Ends but Illness Persists" %}
 

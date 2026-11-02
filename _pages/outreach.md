@@ -29,7 +29,7 @@ lifeline_gallery:
 <p class="project__meta">Outreach coordinator & content producer · with a physician from Wuhan Union Hospital and Yuanxingke</p>
 <div class="tag-row"><span>Health education</span><span>Short video</span><span>Oral history</span></div>
 
-I coordinated a 45-minute online lecture on pneumoconiosis prevention, given by a Wuhan Union Hospital physician to 75 tile-factory workers. I also helped manage the physician’s Douyin account—choosing topics, editing and posting 12 educational videos—and produced two reports, two oral-history pieces and one feature story for Yuanxingke based on interviews and programme materials.
+In collaboration with Yuanxingke and a physician from Wuhan Union Hospital, I coordinated a 45-minute pneumoconiosis prevention lecture delivered by the physician to 75 tile-factory workers. I also helped select topics for the physician’s Douyin account and edited 12 educational videos.
 
 </div>
 
@@ -40,7 +40,7 @@ I coordinated a 45-minute online lecture on pneumoconiosis prevention, given by 
 <p class="project__meta">Health communications intern · Inner Mongolia & Beijing</p>
 <div class="tag-row"><span>Eye-care charity</span><span>Field report</span></div>
 
-The China Lifeline Express is a charity that runs train hospitals offering free cataract surgery. In Inner Mongolia I observed cataract care on the train, and I wrote a field report, *On the Hong Kong Guangming Train: Seeing How Sight Is Restored*, which the foundation published on its WeChat account on 18 August 2026. The experience extended my interest in healthcare access by showing how mobile services bring treatment closer to patients’ communities.
+During my internship with China Lifeline Express, I observed free cataract surgery and related care aboard a train hospital in Inner Mongolia. The experience showed me how mobile medical services can improve access to care and help reduce health inequalities. I documented my observations on how care is organized and brought closer to communities in a field report published on the foundation’s WeChat account.
 
 [Read the article on WeChat (Chinese)](https://mp.weixin.qq.com/s/d2zFCPuwTV2vQi2Q1m4kBA){: .btn .btn--primary}
 
@@ -56,7 +56,5 @@ The China Lifeline Express is a charity that runs train hospitals offering free 
 
 <p class="project__meta">President (Grades 11–12) · Member (Grade 10) · 83 members</p>
 <div class="tag-row"><span>Leadership</span><span>Exhibition</span><span>Fundraising</span></div>
-
-I led the club’s “Seeing Breath, Understanding Chronic Disease” exhibition, which used posters and interactive activities to reach more than 200 visitors, and organised handmade-goods sales that raised more than RMB 800 for Yuanxingke.
 
 </div>

@@ -43,7 +43,7 @@ plugins:
 author:
   name   : "Boyan Tong"
   avatar : "/assets/images/boyan-tong.jpg"
-  bio    : "Explore the charm of social studies."
+  bio    : "It is the responsibility of intellectuals to speak the truth and to expose lies. — Noam Chomsky"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"

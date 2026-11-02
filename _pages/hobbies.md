@@ -15,9 +15,7 @@ excerpt: "Film, LEGO, plane spotting, travel and the gym."
 
 <div class="tag-row"><span>IMAX</span><span>Cinematography</span></div>
 
-I care about how a film is meant to be seen: its frame, scale and image quality. Not long ago I watched Christopher Nolan’s *The Odyssey* in an IMAX GT laser hall. After watching it closely, I’d rank it even above *Oppenheimer*. The story flows, it is full of metaphor, and it carries forward an anti-war spirit. When the head of Athena’s statue is cut off, Odysseus follows his conscience into a long self-exile. The film asks how heroes are made by grand narratives, how obsession and desire trample trust built over many years, and how looking back at an illusion can make us forget to keep moving forward.
-
-> Stopping at the port is safe, but dear, that’s not the purpose of shipbuilding.
+I have a growing collection of 70mm IMAX film frames. Film has grain, flaws and a kind of breathing that no algorithm can imitate. I’m the odd one who picks a theater by screen size rather than showtime, the guy who traveled a thousand kilometers just to see *The Odyssey* on the biggest screen in the country. Totally worth it.
 
 <div class="media-grid media-grid--three media-grid--square">
   <figure class="media-grid__item">
@@ -42,7 +40,7 @@ I care about how a film is meant to be seen: its frame, scale and image quality.
 
 <div class="tag-row"><span>Since age six</span><span>Technic</span><span>Star Wars</span></div>
 
-I started building LEGO when I was six. Today I build and collect big sets such as Technic supercars, the Star Wars Star Destroyer and the Millennium Falcon. The hobby is closely tied to my love of film: *Star Wars* and *Cars* were two of my favourite films as a child.
+This helicopter was my masterpiece at six. Today, my collection includes Technic supercars and large Star Wars sets such as the Star Destroyer and Millennium Falcon. Star Wars and Cars were childhood favorites, so many of my models are linked to films I grew up with. I enjoy both the finished build and the process: sorting pieces, figuring out how the drivetrain works, and seeing thousands of tiny parts come together into something grand. Isn’t that another kind of imagination, moving from the tiny parts to the larger whole?
 
 <div class="media-grid media-grid--three media-grid--square">
   <figure class="media-grid__item">
@@ -67,7 +65,7 @@ I started building LEGO when I was six. Today I build and collect big sets such 
 
 <div class="tag-row"><span>Everyday snapshots</span><span>Aviation photography</span></div>
 
-I love taking snapshots of whatever catches my eye, and aviation photography: catching planes as they come in to land.
+I photograph things that make me pause: a plane passing over a temple roof, or the blue hour on my way to the gym. I’m especially drawn to aviation photography, capturing aircraft as they approach Xiamen Gaoqi Airport and briefly overlap with the everyday scenes below.
 
 <div class="media-grid media-grid--three media-grid--square">
   <figure class="media-grid__item">
@@ -92,7 +90,7 @@ I love taking snapshots of whatever catches my eye, and aviation photography: ca
 
 <div class="tag-row"><span>Quanzhou</span><span>Travel</span></div>
 
-I love my hometown, Quanzhou. I enjoy the quiet of the mountains and the ease of life by the sea.
+Quanzhou is my hometown, and I love the easy pace of life by the sea. These photographs move between familiar places, such as Golden Coast in Shishi, and journeys farther afield. Mountains, water, a cloud, a blank wall or the light along a familiar stretch of coast can all make me reach for my camera.
 
 <div class="media-grid media-grid--three media-grid--square">
   <figure class="media-grid__item">
@@ -117,7 +115,7 @@ I love my hometown, Quanzhou. I enjoy the quiet of the mountains and the ease of
 
 <div class="tag-row"><span>Cardio</span><span>Strength training</span></div>
 
-I enjoy both cardio and strength training, and I go to the gym twice a week. I once tried a ketogenic diet, but found that regular training worked far better for me.
+I go to the gym twice a week for a mix of cardio and strength training, including barbell rows, dumbbell rows and assisted pull-ups. Alongside school and projects, it is a routine I make time for.
 
 <div class="media-grid media-grid--three media-grid--square">
   <figure class="media-grid__item">
