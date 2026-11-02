@@ -35,7 +35,7 @@ This study combines international policy comparison, Chinese provincial panel da
 
 [Read the published article](https://drpress.org/ojs/index.php/ajmss/article/view/36277){: .btn .btn--primary} [DOI: 10.54097/j0mks270](https://doi.org/10.54097/j0mks270){: .btn .btn--inverse}
 
-{% include doc-preview.html slug="pneumoconiosis-policy" pages=2 title="A Comparison of Pneumoconiosis Policies" %}
+{% include doc-preview.html slug="pneumoconiosis-policy" pages=13 title="A Comparison of Pneumoconiosis Policies" %}
 
 </div>
 
