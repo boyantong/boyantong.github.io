@@ -447,3 +447,11 @@ html {
   font-style: italic;
   color: darken($bt-accent, 12%);
 }
+
+.home-motto cite {
+  display: block;
+  margin-top: 0.4em;
+  font-size: 0.75em;
+  font-style: normal;
+  color: #666;
+}
