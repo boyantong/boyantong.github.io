@@ -20,18 +20,22 @@ This narrative literature review examines how TikTok and Douyin recommendation s
 
 [Read the published article](https://francis-press.com/papers/21077){: .btn .btn--primary} [DOI: 10.25236/FSST.2026.080302](https://doi.org/10.25236/FSST.2026.080302){: .btn .btn--inverse}
 
+{% include doc-preview.html slug="tiktok-algorithms" pages=12 title="Short-Video Recommendation Algorithms on TikTok" %}
+
 </div>
 
 <div class="project" markdown="1">
 
 ## Macro-level Governance Environment and Occupational Health: A Comparison of Pneumoconiosis Policies
 
-<p class="project__meta">Boyan Tong · Independent research · 16,000 words</p>
-<div class="tag-row"><span>Policy comparison</span><span>Panel data</span><span>Occupational health</span></div>
+<p class="project__meta">Boyan Tong · <em>Academic Journal of Management and Social Sciences</em> · 2026 · 18(1), 44–56</p>
+<div class="tag-row"><span>Published</span><span>Policy comparison</span><span>Panel data</span><span>Occupational health</span></div>
 
 This study combines international policy comparison, Chinese provincial panel data from 2007 to 2023, and institutional case studies. Regression models explore associations between industrial structure, labour protection, healthcare resources, pollution and reported tuberculosis incidence. The quantitative outcome is tuberculosis reporting, not a direct measure of pneumoconiosis. The paper then compares U.S. and international governance approaches and examines where workers lose access to diagnosis and compensation, proposing policy paths for prevention and governance in China.
 
-{% include doc-preview.html slug="pneumoconiosis-policy" pages=30 title="A Comparison of Pneumoconiosis Policies" %}
+[Read the published article](https://drpress.org/ojs/index.php/ajmss/article/view/36277){: .btn .btn--primary}
+
+{% include doc-preview.html slug="pneumoconiosis-policy" pages=13 title="A Comparison of Pneumoconiosis Policies" %}
 
 </div>
 
