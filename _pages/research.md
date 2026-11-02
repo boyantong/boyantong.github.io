@@ -74,6 +74,6 @@ Civic nationalism is often seen as more inclusive than ethnic nationalism becaus
 
 Written as an imagined dialogue between the writer Meghan O’Rourke and the physician-researcher Allen Steere, this piece asks how medicine should respond when patients’ symptoms persist after standard treatment for Lyme disease. As the two co-edit a joint statement, they negotiate between clinical evidence and lived experience—whether improvement after antibiotics proves ongoing infection, who gets to speak for patients, and how uncertainty can be acknowledged without dismissing suffering.
 
-{% include doc-preview.html slug="lyme-dialogue" pages=8 title="When Treatment Ends but Illness Persists" %}
+{% include doc-preview.html slug="lyme-dialogue" pages=7 title="When Treatment Ends but Illness Persists" %}
 
 </div>
