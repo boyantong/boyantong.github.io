@@ -61,7 +61,7 @@ I used Python to collect recent Google Play and App Store reviews of eight chron
 
 Civic nationalism is often seen as more inclusive than ethnic nationalism because membership rests on shared laws and values rather than descent. This essay argues that civic nationalism is indeed more open at the level of formal membership, but becomes exclusionary when dominant interpretations of universal values are turned into cultural tests of belonging. It develops three criteria—formal openness, the unequal burdens that universal rules can impose, and who is recognised as a credible interpreter of freedom and equality—and applies them to France’s 2004 law on religious symbols in schools, the British *Begum* case and Canada’s *Multani* decision, drawing on Anderson, Asad and Mills.
 
-{% include doc-preview.html slug="civic-nationalism" pages=14 title="Citizens by Law, Outsiders by Culture" %}
+{% include doc-preview.html slug="civic-nationalism" pages=12 title="Citizens by Law, Outsiders by Culture" %}
 
 </div>
 
