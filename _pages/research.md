@@ -35,7 +35,7 @@ This study combines international policy comparison, Chinese provincial panel da
 
 [Read the published article](https://drpress.org/ojs/index.php/ajmss/article/view/36277){: .btn .btn--primary} [DOI: 10.54097/j0mks270](https://doi.org/10.54097/j0mks270){: .btn .btn--inverse}
 
-{% include doc-preview.html slug="pneumoconiosis-policy" pages=13 title="A Comparison of Pneumoconiosis Policies" %}
+{% include doc-preview.html slug="pneumoconiosis-policy-v2" pages=13 title="A Comparison of Pneumoconiosis Policies" %}
 
 </div>
 
@@ -48,7 +48,7 @@ This study combines international policy comparison, Chinese provincial panel da
 
 I used Python to collect recent Google Play and App Store reviews of eight chronic-disease self-management apps, and analysed 137 of them through inductive qualitative coding. The study identifies what users value, such as long-term records and information sharing, alongside usability and accessibility barriers: small text, inflexible recording schedules, paywalls and disruptive updates. It asks how these design choices affect people whose physical abilities change as their symptoms worsen. Because app-store reviewers are a self-selected group, the findings describe reported experiences rather than how common problems are among all patients.
 
-{% include doc-preview.html slug="chronic-disease-apps" pages=40 title="User Experiences with Chronic-Disease Self-Management Apps" %}
+{% include doc-preview.html slug="chronic-disease-apps-v2" pages=40 title="User Experiences with Chronic-Disease Self-Management Apps" %}
 
 </div>
 
@@ -61,7 +61,7 @@ I used Python to collect recent Google Play and App Store reviews of eight chron
 
 Civic nationalism is often seen as more inclusive than ethnic nationalism because membership rests on shared laws and values rather than descent. This essay argues that civic nationalism is indeed more open at the level of formal membership, but becomes exclusionary when dominant interpretations of universal values are turned into cultural tests of belonging. It develops three criteria—formal openness, the unequal burdens that universal rules can impose, and who is recognised as a credible interpreter of freedom and equality—and applies them to France’s 2004 law on religious symbols in schools, the British *Begum* case and Canada’s *Multani* decision, drawing on Anderson, Asad and Mills.
 
-{% include doc-preview.html slug="civic-nationalism" pages=12 title="Citizens by Law, Outsiders by Culture" %}
+{% include doc-preview.html slug="civic-nationalism-v2" pages=12 title="Citizens by Law, Outsiders by Culture" %}
 
 </div>
 
@@ -74,6 +74,6 @@ Civic nationalism is often seen as more inclusive than ethnic nationalism becaus
 
 Written as an imagined dialogue between the writer Meghan O’Rourke and the physician-researcher Allen Steere, this piece asks how medicine should respond when patients’ symptoms persist after standard treatment for Lyme disease. As the two co-edit a joint statement, they negotiate between clinical evidence and lived experience—whether improvement after antibiotics proves ongoing infection, who gets to speak for patients, and how uncertainty can be acknowledged without dismissing suffering.
 
-{% include doc-preview.html slug="lyme-dialogue" pages=7 title="When Treatment Ends but Illness Persists" %}
+{% include doc-preview.html slug="lyme-dialogue-v2" pages=7 title="When Treatment Ends but Illness Persists" %}
 
 </div>
