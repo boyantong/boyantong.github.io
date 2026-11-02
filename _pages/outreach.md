@@ -49,12 +49,3 @@ During my internship with China Lifeline Express, I observed free cataract surge
 {% include doc-preview.html slug="lifeline-express-article" pages=11 title="On the Hong Kong Guangming Train: Seeing How Sight Is Restored (in Chinese)" %}
 
 </div>
-
-<div class="project" markdown="1">
-
-## Seeker Environmental Science Club
-
-<p class="project__meta">President (Grades 11–12) · Member (Grade 10) · 83 members</p>
-<div class="tag-row"><span>Leadership</span><span>Exhibition</span><span>Fundraising</span></div>
-
-</div>

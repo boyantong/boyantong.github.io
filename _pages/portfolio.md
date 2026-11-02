@@ -12,4 +12,4 @@ My work is now organised into sections. Choose one below or use the menu at the 
 - **[Fieldwork](/fieldwork/)** — interviews and reporting in Pingxiang, with photographs
 - **[Documentary](/documentary/)** — *Borrowed Health: A Deferred Cost*
 - **[Design & Tech](/design/)** — wearable dust detector, BREATH·LEDGER and Invisible Barriers
-- **[Outreach](/outreach/)** — health education, China Lifeline Express and the Seeker club
+- **[Outreach](/outreach/)** — health education and China Lifeline Express
