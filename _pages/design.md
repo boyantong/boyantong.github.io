@@ -41,7 +41,7 @@ I am developing a wearable dust detector for stone-cutting workers and programme
 
 <div class="project" markdown="1">
 
-## BREATH·LEDGER
+## Breath·Ledger
 
 <p class="project__meta">Interactive installation</p>
 <div class="tag-row"><span>Interaction design</span><span>Installation</span></div>
@@ -50,11 +50,11 @@ I am developing a wearable dust detector for stone-cutting workers and programme
 
 {% include video id="jrOOskPCdiQ" provider="youtube" %}
 
-A family photograph is obscured by digital dust. When a visitor approaches and puts on a mask, the dust clears; when they leave, it covers the photograph again. Inspired by my fieldwork in Pingxiang, BREATH·LEDGER uses this brief moment of clarity to explore the difficult choices migrant workers face between earning a living and protecting their health.
+A family photograph is obscured by digital dust. When a visitor approaches and puts on a mask, the dust clears; when they leave, it covers the photograph again. Inspired by my fieldwork in Pingxiang, Breath·Ledger uses this brief moment of clarity to explore the difficult choices migrant workers face between earning a living and protecting their health.
 
 [Watch “Mask Interaction Demo” on YouTube](https://youtu.be/jrOOskPCdiQ){: .btn .btn--primary}
 
-{% include doc-preview.html slug="breath-ledger" pages=10 wide=true unit="boards" title="BREATH·LEDGER project boards" %}
+{% include doc-preview.html slug="breath-ledger" pages=10 wide=true unit="boards" title="Breath·Ledger project boards" %}
 
 </div>
 
