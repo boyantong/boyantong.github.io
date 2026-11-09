@@ -35,12 +35,12 @@ In collaboration with Yuanxingke and a physician from Wuhan Union Hospital, I co
 
 <div class="project" markdown="1">
 
-## China Lifeline Express Foundation
+## Chinese Foundation for Lifeline Express
 
 <p class="project__meta">Health communications intern · Inner Mongolia & Beijing</p>
 <div class="tag-row"><span>Eye-care charity</span><span>Field report</span></div>
 
-During my internship with China Lifeline Express, I observed free cataract surgery and related care aboard a train hospital in Inner Mongolia. The experience showed me how mobile medical services can improve access to care and help reduce health inequalities. I documented my observations on how care is organized and brought closer to communities in a field report published on the foundation’s WeChat account.
+During my internship with the Chinese Foundation for Lifeline Express, I observed free cataract surgery and related care aboard a train hospital in Inner Mongolia. The experience showed me how mobile medical services can improve access to care and help reduce health inequalities. I documented my observations on how care is organized and brought closer to communities in a field report published on the foundation’s WeChat account.
 
 [Read the article on WeChat (Chinese)](https://mp.weixin.qq.com/s/d2zFCPuwTV2vQi2Q1m4kBA){: .btn .btn--primary}
 

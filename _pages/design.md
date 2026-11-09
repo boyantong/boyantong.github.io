@@ -16,7 +16,7 @@ excerpt: "Devices, installations and interactive design that make hidden risks a
 <p class="project__meta">Project initiator & developer · Prototype in development</p>
 <div class="tag-row"><span>Hardware</span><span>App development</span><span>Occupational health</span></div>
 
-I am developing a wearable dust detector and companion app for stone-cutting workers. The current hardware prototype combines a dust sensor, LED indicators and a vibration motor to make changes in PM2.5 and PM10 readings easier to notice during work. Planned app features include dust trends, device status and health information.
+I am developing a wearable dust detector for stone-cutting workers and programmed a companion app for it. The current hardware prototype combines a dust sensor, LED indicators and a vibration motor to make changes in PM2.5 and PM10 readings easier to notice during work. The app tracks dust trends, device status and health guidance.
 
 <div class="media-grid media-grid--four">
   <figure class="media-grid__item media-grid__item--white">
@@ -62,7 +62,7 @@ A family photograph is obscured by digital dust. When a visitor approaches and p
 
 ## Invisible Barriers
 
-<p class="project__meta">An interactive installation translating urban accessibility through touch and sound · January–September 2026</p>
+<p class="project__meta">An interactive installation translating urban accessibility through touch and sound · August–September 2026</p>
 <div class="tag-row"><span>Figma</span><span>Blender</span><span>Arduino</span><span>Accessibility</span></div>
 
 For Invisible Barriers, I used interviews with members of the public, case studies and spatial research to explore how streets designed around sight make travel difficult for people with visual impairments. I translated tactile paving, street furniture and common obstacles into modules visitors can explore by touch. Their movements trigger sound, making the patterns and interruptions of urban space perceptible in another way. The installation asks whose needs designers assume when they describe a street as accessible.
